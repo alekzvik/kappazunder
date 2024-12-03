@@ -1,0 +1,33 @@
+{
+  "name": "map-frontend",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "check": "svelte-check --tsconfig ./tsconfig.json && tsc -p tsconfig.node.json"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^4.0.0",
+    "@tsconfig/svelte": "^5.0.4",
+    "@types/geojson": "^7946.0.14",
+    "@types/maplibre-gl": "^1.13.2",
+    "svelte": "^5.0.3",
+    "svelte-check": "^4.0.5",
+    "tslib": "^2.8.0",
+    "typescript": "~5.6.2",
+    "vite": "^5.4.9"
+  },
+  "dependencies": {
+    "@deck.gl/core": "^9.0.35",
+    "@deck.gl/geo-layers": "^9.0.35",
+    "@loaders.gl/las": "^4.3.2",
+    "@photo-sphere-viewer/core": "^5.11.1",
+    "@photo-sphere-viewer/cubemap-adapter": "^5.11.1",
+    "maplibre-gl": "^4.7.1",
+    "pmtiles": "^3.2.1",
+    "probe.gl": "^3.6.0"
+  }
+}

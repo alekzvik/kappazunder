@@ -1,0 +1,193 @@
+assets/Los_6A
+├── Bild-Meta
+│   ├── image_meta.txt
+│   ├── interior_orientation.txt
+│   └── multisys.txt
+├── Bild-Rohdaten
+│   ├── Trajektorie_16642
+│   │   ├── Sensor_110030
+│   │   │   ├── WE1JWVM8.jpg
+│   │   │   ├── WE1JWVM9.jpg
+│   │   │   ├── WE1JWVMA.jpg
+│   │   │   ├── WE1JWVMB.jpg
+│   │   │   ├── WE1JWVMC.jpg
+│   │   │   ├── WE1JWVMD.jpg
+│   │   │   ├── WE1JWVMG.jpg
+│   │   │   ├── WE1JWVMH.jpg
+│   │   │   ├── WE1JWVMI.jpg
+│   │   │   ├── WE1JWVMJ.jpg
+│   │   │   ├── WE1JWVMK.jpg
+│   │   │   ├── WE1JWVML.jpg
+│   │   │   ├── WE1JWVMM.jpg
+│   │   │   ├── WE1JWVMN.jpg
+│   │   │   ├── WE1JWVMO.jpg
+│   │   │   └── WE1JWVMP.jpg
+│   │   ├── Sensor_110031
+│   │   │   ├── WE1JWVM8.jpg
+│   │   │   ├── WE1JWVM9.jpg
+│   │   │   ├── WE1JWVMA.jpg
+│   │   │   ├── WE1JWVMB.jpg
+│   │   │   ├── WE1JWVMC.jpg
+│   │   │   ├── WE1JWVMD.jpg
+│   │   │   ├── WE1JWVMG.jpg
+│   │   │   ├── WE1JWVMH.jpg
+│   │   │   ├── WE1JWVMI.jpg
+│   │   │   ├── WE1JWVMJ.jpg
+│   │   │   ├── WE1JWVMK.jpg
+│   │   │   ├── WE1JWVML.jpg
+│   │   │   ├── WE1JWVMM.jpg
+│   │   │   ├── WE1JWVMN.jpg
+│   │   │   ├── WE1JWVMO.jpg
+│   │   │   └── WE1JWVMP.jpg
+│   │   ├── Sensor_110032
+│   │   │   ├── WE1JWVM8.jpg
+│   │   │   ├── WE1JWVM9.jpg
+│   │   │   ├── WE1JWVMA.jpg
+│   │   │   ├── WE1JWVMB.jpg
+│   │   │   ├── WE1JWVMC.jpg
+│   │   │   ├── WE1JWVMD.jpg
+│   │   │   ├── WE1JWVMG.jpg
+│   │   │   ├── WE1JWVMH.jpg
+│   │   │   ├── WE1JWVMI.jpg
+│   │   │   ├── WE1JWVMJ.jpg
+│   │   │   ├── WE1JWVMK.jpg
+│   │   │   ├── WE1JWVML.jpg
+│   │   │   ├── WE1JWVMM.jpg
+│   │   │   ├── WE1JWVMN.jpg
+│   │   │   ├── WE1JWVMO.jpg
+│   │   │   └── WE1JWVMP.jpg
+│   │   ├── Sensor_110033
+│   │   │   ├── WE1JWVM8.jpg
+│   │   │   ├── WE1JWVM9.jpg
+│   │   │   ├── WE1JWVMA.jpg
+│   │   │   ├── WE1JWVMB.jpg
+│   │   │   ├── WE1JWVMC.jpg
+│   │   │   ├── WE1JWVMD.jpg
+│   │   │   ├── WE1JWVMG.jpg
+│   │   │   ├── WE1JWVMH.jpg
+│   │   │   ├── WE1JWVMI.jpg
+│   │   │   ├── WE1JWVMJ.jpg
+│   │   │   ├── WE1JWVMK.jpg
+│   │   │   ├── WE1JWVML.jpg
+│   │   │   ├── WE1JWVMM.jpg
+│   │   │   ├── WE1JWVMN.jpg
+│   │   │   ├── WE1JWVMO.jpg
+│   │   │   └── WE1JWVMP.jpg
+│   │   ├── Sensor_110034
+│   │   │   ├── WE1JWVM8.jpg
+│   │   │   ├── WE1JWVM9.jpg
+│   │   │   ├── WE1JWVMA.jpg
+│   │   │   ├── WE1JWVMB.jpg
+│   │   │   ├── WE1JWVMC.jpg
+│   │   │   ├── WE1JWVMD.jpg
+│   │   │   ├── WE1JWVMG.jpg
+│   │   │   ├── WE1JWVMH.jpg
+│   │   │   ├── WE1JWVMI.jpg
+│   │   │   ├── WE1JWVMJ.jpg
+│   │   │   ├── WE1JWVMK.jpg
+│   │   │   ├── WE1JWVML.jpg
+│   │   │   ├── WE1JWVMM.jpg
+│   │   │   ├── WE1JWVMN.jpg
+│   │   │   ├── WE1JWVMO.jpg
+│   │   │   └── WE1JWVMP.jpg
+│   │   └── Sensor_110035
+│   │       ├── WE1JWVM8.jpg
+│   │       ├── WE1JWVM9.jpg
+│   │       ├── WE1JWVMA.jpg
+│   │       ├── WE1JWVMB.jpg
+│   │       ├── WE1JWVMC.jpg
+│   │       ├── WE1JWVMD.jpg
+│   │       ├── WE1JWVMG.jpg
+│   │       ├── WE1JWVMH.jpg
+│   │       ├── WE1JWVMI.jpg
+│   │       ├── WE1JWVMJ.jpg
+│   │       ├── WE1JWVMK.jpg
+│   │       ├── WE1JWVML.jpg
+│   │       ├── WE1JWVMM.jpg
+│   │       ├── WE1JWVMN.jpg
+│   │       ├── WE1JWVMO.jpg
+│   │       └── WE1JWVMP.jpg
+│   └── Trajektorie_16882
+│       ├── Sensor_110030
+│       │   ├── WE1MPYIT.jpg
+│       │   ├── WE1MPYIU.jpg
+│       │   ├── WE1MPYIV.jpg
+│       │   ├── WE1MPYIW.jpg
+│       │   ├── WE1MPYIX.jpg
+│       │   ├── WE1MPYIY.jpg
+│       │   ├── WE1MPYIZ.jpg
+│       │   └── WE1MPYJ0.jpg
+│       ├── Sensor_110031
+│       │   ├── WE1MPYIT.jpg
+│       │   ├── WE1MPYIU.jpg
+│       │   ├── WE1MPYIV.jpg
+│       │   ├── WE1MPYIW.jpg
+│       │   ├── WE1MPYIX.jpg
+│       │   ├── WE1MPYIY.jpg
+│       │   ├── WE1MPYIZ.jpg
+│       │   └── WE1MPYJ0.jpg
+│       ├── Sensor_110032
+│       │   ├── WE1MPYIT.jpg
+│       │   ├── WE1MPYIU.jpg
+│       │   ├── WE1MPYIV.jpg
+│       │   ├── WE1MPYIW.jpg
+│       │   ├── WE1MPYIX.jpg
+│       │   ├── WE1MPYIY.jpg
+│       │   ├── WE1MPYIZ.jpg
+│       │   └── WE1MPYJ0.jpg
+│       ├── Sensor_110033
+│       │   ├── WE1MPYIT.jpg
+│       │   ├── WE1MPYIU.jpg
+│       │   ├── WE1MPYIV.jpg
+│       │   ├── WE1MPYIW.jpg
+│       │   ├── WE1MPYIX.jpg
+│       │   ├── WE1MPYIY.jpg
+│       │   ├── WE1MPYIZ.jpg
+│       │   └── WE1MPYJ0.jpg
+│       ├── Sensor_110034
+│       │   ├── WE1MPYIT.jpg
+│       │   ├── WE1MPYIU.jpg
+│       │   ├── WE1MPYIV.jpg
+│       │   ├── WE1MPYIW.jpg
+│       │   ├── WE1MPYIX.jpg
+│       │   ├── WE1MPYIY.jpg
+│       │   ├── WE1MPYIZ.jpg
+│       │   └── WE1MPYJ0.jpg
+│       └── Sensor_110035
+│           ├── WE1MPYIT.jpg
+│           ├── WE1MPYIU.jpg
+│           ├── WE1MPYIV.jpg
+│           ├── WE1MPYIW.jpg
+│           ├── WE1MPYIX.jpg
+│           ├── WE1MPYIY.jpg
+│           ├── WE1MPYIZ.jpg
+│           └── WE1MPYJ0.jpg
+├── Scan-Meta
+│   └── scan_meta.txt
+├── Scan-Punktwolken
+│   ├── Trajektorie_16642
+│   │   └── Sensor_11003
+│   │       ├── scandata_172.copc.laz
+│   │       ├── scandata_172.laz
+│   │       ├── scandata_173.copc.laz
+│   │       └── scandata_173.laz
+│   └── Trajektorie_16882
+│       └── Sensor_11003
+│           ├── scandata_16.copc.laz
+│           └── scandata_16.laz
+├── Verortung
+│   └── Trajektorien
+│       ├── trajectory_16642_2111_31256.txt
+│       └── trajectory_16882_2112_31256.txt
+└── stac-catalog
+    ├── catalog.json
+    ├── images
+    │   ├── collection.json
+    │   ├── cubemap_Trajektorie_16642
+    │   │   └── cubemap_Trajektorie_16642.json
+    │   └── cubemap_Trajektorie_16882
+    │       └── cubemap_Trajektorie_16882.json
+    └── pointclouds
+        └── collection.json
+
+30 directories, 161 files
